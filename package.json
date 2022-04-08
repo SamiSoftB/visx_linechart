@@ -1,0 +1,46 @@
+{
+  "name": "@visx/demo-brush",
+  "description": "Standalone visx brush demo.",
+  "main": "index.tsx",
+  "private": true,
+  "dependencies": {
+    "@babel/runtime": "^7.8.4",
+    "@types/d3-time-format": "2.2.0",
+    "@types/react": "^16",
+    "@types/react-dom": "^16",
+    "@visx/axis": "3.0.0-alpha.0",
+    "@visx/brush": "3.0.0-alpha.0",
+    "@visx/curve": "latest",
+    "@visx/event": "2.6.0",
+    "@visx/gradient": "3.0.0-alpha.0",
+    "@visx/grid": "3.0.0-alpha.0",
+    "@visx/group": "3.0.0-alpha.0",
+    "@visx/mock-data": "latest",
+    "@visx/pattern": "2.1.2",
+    "@visx/responsive": "2.8.0",
+    "@visx/scale": "2.2.2",
+    "@visx/shape": "2.4.0",
+    "@visx/tooltip": "2.8.0",
+    "@visx/voronoi": "2.1.2",
+    "d3-array": "^2.4.0",
+    "d3-time-format": "4.1.0",
+    "react": "18.0.0",
+    "react-dom": "18.0.0",
+    "react-scripts-ts": "^2.13.0",
+    "typescript": "^3"
+  },
+  "keywords": [
+    "visualization",
+    "d3",
+    "react",
+    "visx",
+    "brush",
+    "interaction"
+  ],
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  }
+}
