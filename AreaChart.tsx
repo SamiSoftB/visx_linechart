@@ -9,7 +9,7 @@ import { timeFormat } from "d3-time-format";
 import { AppleStock } from "@visx/mock-data/lib/mocks/appleStock";
 
 // Initialize some variables
-const axisColor = "rgba(2,2,4,0.6)";
+const axisColor = "rgba(2,2,4,0.7)";
 const axisStroke = "#fff";
 const axisBottomTickLabelProps = {
   textAnchor: "middle" as const,
